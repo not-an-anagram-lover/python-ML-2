@@ -1,5 +1,6 @@
-#Regression issues related to data preprocessing:
-##Assumptions in regression
+# Regression issues related to data preprocessing:
+
+## Assumptions in regression
 
 ->There exists a linear and additive relationship between dependent (DV) and independent variables (IV). 
 By linear, it means that the change in DV by 1 unit change in IV is constant. 
@@ -18,7 +19,7 @@ the assumption of uncorrelated error terms.
 
 ->The dependent variable and the error terms must possess a normal distribution.
 
-##Mathematical concepts
+## Mathematical concepts
 
 Mathematically, regression uses a linear function to approximate (predict) the dependent variable given as:
 
