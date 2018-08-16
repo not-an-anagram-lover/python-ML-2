@@ -50,3 +50,5 @@ Explained Sum of Squares (ESS) - ∑[Predicted(y) - Mean(ymean)]²
 
 Total Sum of Squares (TSS) - ∑[Actual(y) - Mean(ymean)]²
 
+
+### Source:https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/tutorial/
