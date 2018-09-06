@@ -1,9 +1,9 @@
-#Visualisation by Pandas
+# Visualisation by Pandas
 
 This contains implementations of 
-##Univariate plots
+## Univariate plots
 Histogram plots, Density Plots, Box and Whisker plots
-##Multivariate plots
+## Multivariate plots
 Correlation Matrix plot and Scatter Matrix plots
 
 on dataset:-https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv
